@@ -33,14 +33,31 @@ We’ll also be hosting a charity auction with the winning artwork, allowing the
 <h3><u><strong><i>Honey Finance</i></strong></u> &nbsp;(AVALANCHE/SOLANA)</h3>
 <hr />
 
-<img align="right" height = "100px" src="https://miro.medium.com/max/1000/1*6tTjzXX0Z2oDKoASI2KYTQ.png" >
+<img align="right" height = "150px" src="https://miro.medium.com/max/1000/1*6tTjzXX0Z2oDKoASI2KYTQ.png" >
 
 This is one of the big project, I have built NFT lending/borrowing system on Avalanche/Solana. You can lend and borrow NFT from this site and the price comes from the NFT oracle.
-So you deposit this collateral, we see it belongs to collection X so the floor price is Y. We send 70% of Y (assuming the loan to value is 70%) and the loan begins. Now two things can happen (already coded in compound). Interest is accumulating, either you pay back the loan + interest and it sends your collateral back, or the loan + interest is too high and it sends it to a liquidation smart contract. 
+
+So you deposit this collateral, we see it belongs to collection X so the floor price is Y. We send 70% of Y (assuming the loan to value is 70%) and the loan begins. 
+
+Now two things can happen (already coded in compound). Interest is accumulating, either you pay back the loan + interest and it sends your collateral back, or the loan + interest is too high and it sends it to a liquidation smart contract. 
 
 - Original Link: <a href="https://honey.finance" target="_blank"> Honey Finance </a>
 
 - Github repo: <a href="https://github.com/honey-labs/evm-lend-nft" target="_blank">Honey Finance NFT Lend</a>
+
+
+<h3><u><strong><i>TAC Staking</i></strong></u> &nbsp;(Aurora)</h3>
+<hr />
+
+<img align="right" height = "220px" src="https://pbs.twimg.com/media/FQ65kTNakAE2qMg?format=jpg&name=large" >
+
+This is the traditional NFT staking project. Users stake their TAC NFTs and receive 🍌$BGA token.
+
+- Link: <a href="https://aurora-staking.vercel.app/" target="_blank">TAC Staking</a>
+  - You can stake your TAC NFT.
+  - You will receive reward as 🍌$BGA calculated by 25 days.
+- Original Link: <a href="https://www.theapedao.finance/" target="_blank">Buy $BGA|APe DAO</a>
+- Github repo : <a href="https://github.com/dev-tom-0108/NFT-staking-aurora" target="_blank">TAC-NFT-Staking</a>  
 
 <h3><u><strong><i>LaidBackLlamas</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
@@ -104,7 +121,7 @@ Staking an SPL token "FLWR"
 <h3><u><strong><i>Luvami Gambling</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" height = "220px" src="https://assets.coingecko.com/coins/images/23534/large/FLWR-Token-Front-ALPHA.png?1644387944" >
+<img align="right" height = "220px" src="./assets/luvami-gambling.png" >
 
 This is the Dice game. The random number will be created in blockchain and compare the system's Dice and user's Dice.
 
@@ -112,5 +129,5 @@ This is the Dice game. The random number will be created in blockchain and compa
   - You can deposit 0.05, 0.1, 0.25, 0.5, 0.75, 1, 2.5 SOL
   - If you win, you receive the 2 times, you earn
   - If you lost, you can't receive at all.
-- Original Link: <a href="https://dex.solflowers.io" target="_blank">FLOWERS Solana Marketplace</a>
 - Github repo : <a href="https://github.com/dev-tom-0108/Dice-Rust" target="_blank">DICE</a>  
+
