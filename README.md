@@ -18,6 +18,7 @@ We are a safe, boring NFT vault. That is very $Dusty. You can pay us to store yo
   - Set & forget. They’re in storage now, leave them alone and come back in a year.
 
 - Github repo: <a href="https://github.com/dev-tom-0108/dusty-valuts-v2" target="_blank">Dusty-Vaults_Staking</a>
+- Social Link: <a href="https://twitter.com/DustyVaultsNFT" target="_blank">Dusty Vaults-twitter</a>
 
 <h3><u><strong><i>FoxFinance</i></strong></u> &nbsp;(BSC)</h3>
 <hr />
