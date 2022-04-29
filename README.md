@@ -89,7 +89,7 @@ Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
 
 <img align="right" height = "220px" src="https://assets.coingecko.com/coins/images/23534/large/FLWR-Token-Front-ALPHA.png?1644387944" >
 
-staking an SPL token "FLWR"
+Staking an SPL token "FLWR"
 
 - Link: <a href="https://majestic-alpaca-f02e82.netlify.app" target="_blank">FLWR Staking</a>
   - number of flwr (spl-token) - 50/75/100%
