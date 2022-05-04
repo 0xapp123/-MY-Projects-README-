@@ -110,6 +110,7 @@ Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
 Staking an SPL token "FLWR"
 
 - Link: <a href="https://majestic-alpaca-f02e82.netlify.app" target="_blank">FLWR Staking</a>
+- Live URL: <a href="https://flwrstaking.solflowers.io/" target="_blank">SOL Flowers Staking</a>
   - number of flwr (spl-token) - 50/75/100%
   - reward period/lock time  - 4/6/12 month
   - interest  - 3%/6%/12%
