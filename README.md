@@ -133,3 +133,48 @@ This is the Dice game. The random number will be created in blockchain and compa
   - If you lost, you can't receive at all.
 - Github repo : <a href="https://github.com/dev-tom-0108/Dice-Rust" target="_blank">DICE</a>  
 
+<h3><u><strong><i>EU(Eternal Underworld) Raffle</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/166092522-f6b25eab-aefc-4278-9c2e-abd8f65712c0.png">
+
+This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using 🍂$REAP and $SOL.
+
+- Link: <a href="https://eu-raffle.vercel.app/raffle" target="_blank">EU Raffle</a>
+  - Payment method
+    - SOL
+    - $REAP (SPL token)
+  - Reward Type
+    - Reveive NFT
+    - Whitelist (Max value is 50)
+    - Tickets (Max value is 2000)
+- Original Links:
+  - Website: <a href="https://www.daku-reapers.com" target="_blank">Daku-Reapers Ressurection</a>
+  - Auction: <a href="https://daku-reapers.auction" target="_blank">Daku-Reapers Auction</a>
+  - Staking: <a href="https://daku-reaper-staking.vercel.app" target="_blank">Daku-Reapers Staking</a>
+- Github repo: <a href="https://github.com/dev-tom-0108/raffle-frank-rust" target="_blank">EU-raffle</a>
+
+<h3><u><strong><i>Auction House</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/166192340-300d7d3b-5251-431e-91a6-e1c6235aeacd.png">
+
+This is the auction platform that users can bid with several 💵spl-tokens and the highest bidder(winner) will be receive the NFT.
+
+- Link: <a href="https://auction-doge.vercel.app/auction">Doge Auction</a>
+- Online link: <a href="https://mausoleum.tombstoned.xyz">The Mausolem Auction</a>
+  - Payment method
+    - SOL
+    - Various SPL tokens
+  - Reward Type
+    - NFT
+- Official Links:
+  - Website: <a href="https://www.thedogecapital.com">Doge Capital:</a>
+  - Staking: <a href="https://staking.thedogecapital.com">Doge Capital NFT Staking:</a>
+  - CoinFlip: <a href="https://degencoinflip.com/dogecapital">Degen Coin Flip:</a>
+  - Twitter: <a href="https://twitter.com/thedogecapital">Doge Capital:</a>
+- Github repo: <a href="https://github.com/dev-tom-0108/auction-doge-rust">auction-doge</a>
+  - Project Structure:
+    - Auction contract
+    - Auction api
+    - Front-end
