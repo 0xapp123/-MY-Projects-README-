@@ -25,7 +25,7 @@ We are a safe, boring NFT vault. That is very $Dusty. You can pay us to store yo
 
 <img align="right" height = "180px" src="https://miro.medium.com/max/1838/1*ILG-NpffKayiqDzRLTcwiQ.jpeg" >
 
-We’ll also be hosting a charity auction with the winning artwork, allowing the FOX community to own a piece of history in the form of an NFT, with proceeds going to a wildlife-oriented charity we plan to reveal soon.
+We’ll also be hosting a charity auction with the winning artwork, allowing the FOX community to own a piece of history in the form of an NFT, with proceeds going to a wildlife-oriented charity we plan to reveal it soon.
 
 - Original Link: <a href="https://foxfinance.io/Marketplace" target="_blank">Fox Finance</a>
 
