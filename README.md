@@ -73,6 +73,31 @@ In this smart contract, I built WL Member Function, OG Member Function, and Reve
 - Original Link: <a href="https://www.laidbackllamas.com" target="_blank">Laid Back Llamas</a>
 - <h5>NDA</h5>
 
+<h3><u><strong><i>Astronaut NFT Staking</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+Multiple Factor Rewards Staking program for 👩🏿‍🚀Astronaut👨🏿‍🚀 NFT collections
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/171998607-ee9dee1f-58e2-470f-8976-5d36e3d17fc0.png">
+
+- Demo: <a href="http://astronaut-nft-staking-death.vercel.app">Astronaut Staking</a>
+- Live: <a href="https://minxlabs.io/cosmicastro/staking">cosmicastro NFT Staking </a>
+  - Model 1: 
+    - If you claim before 15 days, you will receive 75% and after 15 days, will receive 100%.
+      - Adventurer: 20 $coin a day 
+      - Scientist: 25 $coin a day 
+      - Doctor: 30 coin a day 
+      - Mission Specialist: 35 $coin a day 
+      - Commander: 40 $coin a day
+  - Model 2
+    - Rewards are paid daily and they are the same for all NFTS, so x $coin a day for everything
+  - Model 3 
+    - 7 days x $coin, 14 days 1.5x $coin, 30 days+ 2x $coin
+- Official Links:
+  - Website: <a href="https://www.cosmicastronauts.com">Cosmic Astronaut</a>
+  - Dashboard: <a href="https://minxlabs.io">Minx Labs Dashboard</a>
+- Github repo: <a href="https://github.com/dev-tom-0108/Astronaut-NFT-Staking">Astronaut-NFT-Staking-death</a>
+
 <h3><u><strong><i>Wild West Verse</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
