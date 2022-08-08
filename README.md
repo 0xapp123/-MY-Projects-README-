@@ -98,6 +98,25 @@ Multiple Factor Rewards Staking program for 👩🏿‍🚀Astronaut👨🏿‍�
   - Dashboard: <a href="https://minxlabs.io">Minx Labs Dashboard</a>
 - Github repo: <a href="https://github.com/dev-tom-0108/Astronaut-NFT-Staking">Astronaut-NFT-Staking-death</a>
 
+<h3><u><strong><i>Burning Masked Ape Dao</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/183006431-97bdc41e-8b25-4f13-b260-098d948d2853.png">
+
+This is burning mechanism to burn NFTs have no metadata in Masked Ape collection. Max burn per wallet per day would be 1 burn to prevent whales easily hoarding MAD tokens by burning blank NFTs. Here is the official links and smart contract repo link.
+
+- Demo: <a href="https://burning-masked-ape.vercel.app">Burning Masked Ape</a>
+- Live: <a href="https://maskedapedao.com">Bruning_Masked_Ape_DAO</a>
+  - Functionality
+    - 848 Masked Apes have missing attributes, we want a dApp to burn them for $MAD tokens. (eg. blank attributes Masked Ape
+    - We will deposit 8,480,000 $MAD in a vault so users can burn and receive 10,000 $MAD tokens.
+    - Users can burn nft has no metadata.
+- $MAD tokens contract: <a href="https://solscan.io/token/GkXn6PUbcvpwAzVCgJFychVhAhjwZRMJWmtqzar3SnqG">$MAD token</a>    
+- Magic Eden: <a href="https://magiceden.io/marketplace/maskedapedao">maskedapedao</a>
+- Offical Links: <a href="https://maskedapedao.xyz">Anonymous Masked Ape DAO</a>
+- Github repo: <a href="https://github.com/dev-tom-0108/Burning_Masked_Ape">Burning_Masked_Ape</a>
+
+
 <h3><u><strong><i>Wild West Verse</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
