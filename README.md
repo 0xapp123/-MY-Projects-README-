@@ -20,6 +20,30 @@ We are a safe, boring NFT vault. That is very $Dusty. You can pay us to store yo
 - Github repo: <a href="https://github.com/dev-tom-0108/dusty-valuts-v2" target="_blank">Dusty-Vaults_Staking</a>
 - Social Link: <a href="https://twitter.com/DustyVaultsNFT" target="_blank">Dusty Vaults-twitter</a>
 
+<h3><u><strong><i>Seattle-SuperKongs-Staking</i></strong></u> &nbsp;(Ethereum)</h3>
+<hr />
+
+<img align="right" height = "200px" src="https://user-images.githubusercontent.com/29230603/183609575-bd6be217-c753-4b3d-9156-9aa5b4e8b434.png" >
+
+30% (30 Million) of the total DUNK token supply is allocated to the Club Key NFTs, which act as the primary investment into the Seattle SuperKongs Club. In return for the early investment into the SuperKongs, Club Key NFT holders are given a majority percentage of the DUNK token supply. The Club Key NFTs must be staked
+to access the DUNK token distribution. The NFT staking mechanism allows the DUNK tokens to be vested to holders over time
+
+- Original Link: <a href="https://seattle-superkongs-staking.netlify.app/" target="_blank">Seattle_SuperKongs_Staking</a>
+  - Connect your wallet
+  - Ensure you’re on the right network
+  - Select the NFT’s in your wallet that you want to store
+
+- Official Link: <a href="https://www.superkongs.io/" target="_blank">Seattle_SuperKongs</a>
+
+- Github repo: 
+  - <a href="https://github.com/Seattle-SuperKongs/NFT_Staking_FE" target="_blank">FrontEnd Code</a>
+  - <a href="https://github.com/Seattle-SuperKongs/NFT_Staking_contract" target="_blank">NFT Staking Smart Contract Code</a>
+  - <a href="https://github.com/Seattle-SuperKongs/DUNK_token_contract" target="_blank">DUNK Token Smart Contract Code</a>
+- Social Link:
+  - <a href="https://twitter.com/SeaSuperkongs" target="_blank"> SuperKongs-Twitter </a>
+  - <a href="https://www.instagram.com/seattlesuperkongs/?hl=en" target="_blank"> SuperKongs-Instagram </a>
+
+
 <h3><u><strong><i>FoxFinance</i></strong></u> &nbsp;(BSC)</h3>
 <hr />
 
