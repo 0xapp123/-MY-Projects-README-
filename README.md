@@ -5,7 +5,7 @@ You can find my past works here. Most of projects(repos) are in private status.
 <h3><u><strong><i>DustyVaults</i></strong></u> &nbsp;(BSC)</h3>
 <hr />
 
-<img align="right" height = "200px" src="[https://pbs.twimg.com/media/FIzzf6eVIAAJo66.jpg](https://user-images.githubusercontent.com/29230603/183614336-5d442136-03c4-4883-afbd-01f89f9ffa6c.png)" >
+<img align="right" height = "200px" src="https://user-images.githubusercontent.com/29230603/183614336-5d442136-03c4-4883-afbd-01f89f9ffa6c.png" >
 
 
 We are a safe, boring NFT vault. That is very $Dusty. You can pay us to store your NFT’s for the next year. We’re going to lock them in an old vault and keep a watchful eye on them. Like anything put in storage it will get $Dusty over time. In fact at the end of 12 months you can withdraw your NFT, plus your original funds, plus all your accumulated $Dusty tokens.
@@ -24,7 +24,7 @@ We are a safe, boring NFT vault. That is very $Dusty. You can pay us to store yo
 <h3><u><strong><i>Seattle-SuperKongs-Staking</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
 
-<img align="right" width = "350px" src="https://user-images.githubusercontent.com/29230603/183614871-c355170f-a00e-409c-a1a8-d6e9d6a4a2ce.png" >
+<img align="right" width = "350px" src="https://user-images.githubusercontent.com/29230603/183615605-20e9fed4-b8ce-4e3f-8020-843e91b5f99c.png" >
 
 30% (30 Million) of the total DUNK token supply is allocated to the Club Key NFTs, which act as the primary investment into the Seattle SuperKongs Club. In return for the early investment into the SuperKongs, Club Key NFT holders are given a majority percentage of the DUNK token supply. The Club Key NFTs must be staked
 to access the DUNK token distribution. The NFT staking mechanism allows the DUNK tokens to be vested to holders over time
