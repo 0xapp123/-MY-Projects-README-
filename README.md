@@ -196,7 +196,7 @@ Staking an SPL token "FLWR"
 
 This is the Dice game. The random number will be created in blockchain and compare the system's Dice and user's Dice.
 
-- Link: <a href="https://luvami.io/" target="_blank">Luvami Gambling</a>
+- Link: <a href="https://dice-game-frontend.vercel.app/" target="_blank">Luvami Gambling</a>
   - You can deposit 0.05, 0.1, 0.25, 0.5, 0.75, 1, 2.5 SOL
   - If you win, you receive the 2 times, you earn
   - If you lost, you can't receive at all.
