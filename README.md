@@ -11,7 +11,7 @@ You can find my past works here. Most of projects(repos) are in private status.
 We are a safe, boring NFT vault. That is very $Dusty. You can pay us to store your NFT’s for the next year. We’re going to lock them in an old vault and keep a watchful eye on them. Like anything put in storage it will get $Dusty over time. In fact at the end of 12 months you can withdraw your NFT, plus your original funds, plus all your accumulated $Dusty tokens.
 
 - Original Link: <a href="https://dustyvaults.net/" target="_blank">Dusty Vaults</a>
-  - Connect your wallet
+  - Connect your wallet 
   - Ensure you’re on the right network
   - Make sure you have some $Dusty tokens in your wallet
   - Select the NFT’s in your wallet that you want to store
