@@ -202,6 +202,25 @@ This is the Dice game. The random number will be created in blockchain and compa
   - If you lost, you can't receive at all.
 - Github repo : <a href="https://github.com/dev-tom-0108/Dice-Rust" target="_blank">DICE</a>  
 
+<h3><u><strong><i>Apex Raffle House</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using $PREY and $SOL.
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/171998195-6616ae2e-90a8-44e4-946f-65f49e25ff20.png">
+
+- Demo: <a href="http://apex-raffle.vercel.app">ApeX Raffle House</a>
+- Live: <a href="http://apex-raffle.vercel.app">ApeX Raffle House</a>
+  - Payment method
+    - $SOL, $PREY (SPL token)
+  - Reward Type
+    - Receive NFT, WL spots(max: 50), Reward Token
+- Official Links:
+  - Linktree: <a href="https://linktr.ee/ApexPredatorsSOL">Apex Predator | Linktree</a>
+  - Website: <a href="https://home.apexpredator.army">Apex Predator</a>
+  - Staking: <a href="https://apex-staking.vercel.app">Apex Predator | Staking</a>
+- Github repo: <a href="https://github.com/dev-tom-0108/ApeX-Raffle-program">Apex-Raffle</a>
+
 <h3><u><strong><i>EU(Eternal Underworld) Raffle</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
@@ -222,6 +241,26 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
   - Auction: <a href="https://daku-reapers.auction" target="_blank">Daku-Reapers Auction</a>
   - Staking: <a href="https://daku-reaper-staking.vercel.app" target="_blank">Daku-Reapers Staking</a>
 - Github repo: <a href="https://github.com/dev-tom-0108/raffle-frank-rust" target="_blank">EU-raffle</a>
+
+
+<h3><u><strong>MetaKongz Raffle</strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using 🦴$BOOGA, 🍭$ZION, and $SOL.
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/169970030-277f578c-d25a-450b-bc40-71767f818df5.png">
+
+- Link: <a href="https://metakongz-raffle-auction.vercel.app/raffle" target="_blank">MetaKongz Raffle</a>
+- Live Link: <a href="https://metakongz-metamart.vercel.app">MetaKongz Raffle</a>
+  - Payment method
+    - $SOL, $BOOGA, $ZION
+  - Reward Type
+    - Receive NFT, WL spots(max: 50)
+- Original Links:
+  - Website: <a href="https://www.metakongz.art" target="_blank">MetaKongz</a>
+  - Staking: <a href="https://metakongz-staking.vercel.app" target="_blank">MetaKongz Staking</a>
+- Github repo: <a href="https://github.com/dev-tom-0108/raffle-pro-contract" target="_blank">raffle-auction-prospect3</a>
+
 
 <h3><u><strong><i>Auction House</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
