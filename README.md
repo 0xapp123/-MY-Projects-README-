@@ -2,6 +2,26 @@
 
 You can find my past works here. Most of projects(repos) are in private status.
  
+  
+<h3><u><strong><i>Solarmy Game</i></strong></u> &nbsp;(SOLANA)</h3>
+<hr />
+
+<img align="right" height = "200px" src="https://user-images.githubusercontent.com/29230603/207525801-dc957674-c432-4817-a30d-7476364ce0b4.png" >
+
+The Solarmy is an interdimensional freedom fighting army of the future where all members are connected to each other through a high tech implant
+
+- Original Link: <a href="https://game.solarmy.io/" target="_blank">Solarmy Game</a>
+  - You can play game with Solarmy 3D NFTs with this site
+  - You can stake solarmy 2D NFTs
+
+
+- Github repo: 
+  - Solarmy Game FE: <a href="https://github.com/dev-tom-0108/Solarmy-FE" target="_blank">FE code</a>
+  - Solarmy Game BE: <a href="https://github.com/dev-tom-0108/Solarmy-Backend-Api" target="_blank">BE code</a>
+  - Solarmy Game Program: <a href="https://github.com/dev-tom-0108/Solarmy-Staking-Program" target="_blank">Program code</a>
+  
+- Social Link: <a href="https://twitter.com/TheSolarmy" target="_blank">The Solarmy</a>
+
 <h3><u><strong><i>DustyVaults</i></strong></u> &nbsp;(BSC)</h3>
 <hr />
 
@@ -11,12 +31,7 @@ You can find my past works here. Most of projects(repos) are in private status.
 We are a safe, boring NFT vault. That is very $Dusty. You can pay us to store your NFT’s for the next year. We’re going to lock them in an old vault and keep a watchful eye on them. Like anything put in storage it will get $Dusty over time. In fact at the end of 12 months you can withdraw your NFT, plus your original funds, plus all your accumulated $Dusty tokens.
 
 - Original Link: <a href="https://dustyvaults.net/" target="_blank">Dusty Vaults</a>
-  - Connect your wallet 
-  - Ensure you’re on the right network
-  - Make sure you have some $Dusty tokens in your wallet
-  - Select the NFT’s in your wallet that you want to store
-  - Select how much you want to pay / receive (the more you pay for storage, the more $Dusty you receive)
-  - Set & forget. They’re in storage now, leave them alone and come back in a year.
+
 
 - Github repo: <a href="https://github.com/dev-tom-0108/dusty-valuts-v2" target="_blank">Dusty-Vaults_Staking</a>
 - Social Link: <a href="https://twitter.com/DustyVaultsNFT" target="_blank">Dusty Vaults-twitter</a>
@@ -30,9 +45,6 @@ We are a safe, boring NFT vault. That is very $Dusty. You can pay us to store yo
 to access the DUNK token distribution. The NFT staking mechanism allows the DUNK tokens to be vested to holders over time
 
 - Original Link: <a href="https://seattle-superkongz.herokuapp.com/" target="_blank">Seattle_SuperKongs_Staking</a>
-  - Connect your wallet
-  - Ensure you’re on the right network
-  - Select the NFT’s in your wallet that you want to store
 
 - Official Link: <a href="https://www.superkongs.io/" target="_blank">Seattle_SuperKongs</a>
 
@@ -107,17 +119,7 @@ Multiple Factor Rewards Staking program for 👩🏿‍🚀Astronaut👨🏿‍�
 
 - Demo: <a href="http://astronaut-nft-staking-death.vercel.app">Astronaut Staking</a>
 - Live: <a href="https://minxlabs.io/cosmicastro/staking">cosmicastro NFT Staking </a>
-  - Model 1: 
-    - If you claim before 15 days, you will receive 75% and after 15 days, will receive 100%.
-      - Adventurer: 20 $coin a day 
-      - Scientist: 25 $coin a day 
-      - Doctor: 30 coin a day 
-      - Mission Specialist: 35 $coin a day 
-      - Commander: 40 $coin a day
-  - Model 2
-    - Rewards are paid daily and they are the same for all NFTS, so x $coin a day for everything
-  - Model 3 
-    - 7 days x $coin, 14 days 1.5x $coin, 30 days+ 2x $coin
+
 - Official Links:
   - Website: <a href="https://www.cosmicastronauts.com">Cosmic Astronaut</a>
   - Dashboard: <a href="https://minxlabs.io">Minx Labs Dashboard</a>
