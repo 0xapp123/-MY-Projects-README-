@@ -6,7 +6,7 @@ You can find my past works here. Most of projects(repos) are in private status.
 <h3><u><strong><i>Solarmy Game</i></strong></u> &nbsp;(SOLANA)</h3>
 <hr />
 
-<img align="right" height = "200px" src="https://user-images.githubusercontent.com/29230603/207525801-dc957674-c432-4817-a30d-7476364ce0b4.png" >
+<img align="right" height = "250px" src="https://user-images.githubusercontent.com/29230603/207525801-dc957674-c432-4817-a30d-7476364ce0b4.png" >
 
 The Solarmy is an interdimensional freedom fighting army of the future where all members are connected to each other through a high tech implant
 
@@ -20,7 +20,23 @@ The Solarmy is an interdimensional freedom fighting army of the future where all
   - Solarmy Game BE: <a href="https://github.com/dev-tom-0108/Solarmy-Backend-Api" target="_blank">BE code</a>
   - Solarmy Game Program: <a href="https://github.com/dev-tom-0108/Solarmy-Staking-Program" target="_blank">Program code</a>
   
-- Social Link: <a href="https://twitter.com/TheSolarmy" target="_blank">The Solarmy</a>
+- Social Link: <a href="https://twitter.com/TheSolarmy" target="_blank">The Solarmy-twitter</a>
+  
+<h3><u><strong><i>Coinflip Game</i></strong></u> &nbsp;(SOLANA)</h3>
+<hr />
+
+<img align="right" height = "250px" src="https://user-images.githubusercontent.com/29230603/207527752-fb4e326a-1d7e-4ab6-bdc6-a30ad9d841d2.png" >
+
+This is the Coinflip game for Solana network
+
+- Original Link: <a href="https://coinflip.deezkits.com/" target="_blank">Coinflip Game</a>
+
+- Github repo: 
+  - Coinflip Game FE: <a href="https://github.com/dev-tom-0108/Coinflip-Game/tree/main/coinflip-frontend" target="_blank">FE code</a>
+  - Coinflip Game BE: <a href="https://github.com/dev-tom-0108/Coinflip-Game/tree/main/backend" target="_blank">BE code</a>
+  - Coinflip Game Program: <a href="https://github.com/dev-tom-0108/Coinflip-Game/tree/main/coinflip-smart-contract" target="_blank">Program code</a>
+  
+- Social Link: <a href="https://mobile.twitter.com/deezkits" target="_blank">Deezkits-twitter</a>
 
 <h3><u><strong><i>DustyVaults</i></strong></u> &nbsp;(BSC)</h3>
 <hr />
