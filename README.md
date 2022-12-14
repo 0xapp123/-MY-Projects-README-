@@ -1,4 +1,4 @@
-# Blockchain Projects: (Solana / Ethereum)
+# Blockchain Projects: (SOLANA / EVM / NEAR)
 
 You can find my past works here. Most of projects(repos) are in private status.
  
