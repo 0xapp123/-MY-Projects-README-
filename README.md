@@ -60,7 +60,7 @@ We are a safe, boring NFT vault. That is very $Dusty. You can pay us to store yo
 30% (30 Million) of the total DUNK token supply is allocated to the Club Key NFTs, which act as the primary investment into the Seattle SuperKongs Club. In return for the early investment into the SuperKongs, Club Key NFT holders are given a majority percentage of the DUNK token supply. The Club Key NFTs must be staked
 to access the DUNK token distribution. The NFT staking mechanism allows the DUNK tokens to be vested to holders over time
 
-- Original Link: <a href="https://seattle-superkongz.herokuapp.com/" target="_blank">Seattle_SuperKongs_Staking</a>
+- Original Link: <a href="https://superkongz-staking.netlify.app/" target="_blank">Seattle_SuperKongs_Staking</a>
 
 - Official Link: <a href="https://www.superkongs.io/" target="_blank">Seattle_SuperKongs</a>
 
