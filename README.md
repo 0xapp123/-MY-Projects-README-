@@ -37,7 +37,24 @@ Yieldz is the first multi Layered real-yield DeFi ecosystem. Our mission is to p
   - Yieldz Protocol Smart Contract: <a href="https://github.com/dev-tom-0108/Double_yield_staking_solidity" target="_blank">Smart Contract code</a>
   
 - Social Link: <a href="https://twitter.com/Yieldzprotocol" target="_blank">The Yieldz-twitter</a>
-  
+
+
+
+
+<h3><u><strong><i>Degen Taxi</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" height="250px" src="https://user-images.githubusercontent.com/89365150/224244632-4cedc247-8749-4df8-9828-526eff6199c0.png">
+
+This is one kind of Sol Crash game. 🚕 Instead of that, the transparent is Taxi. 😜.
+
+Degen Taxi proves that the odds are as advertised (5% house edge) and that the rolls are predetermined and cannot react to how players bet. For more detailed information on the concept of 'Provably Fair' you can always check here. This project includes 3 parts, smart contract, back-end, and front-end integration.
+
+- Live: <a href="https://degentaxi.io">Degen Taxi</a>
+- Github repos: 
+  - smart contract repo: <a href="https://github.com/dev-tom-0108/Taxi_Game_Program">taxi-crash-solana-contract</a>
+
+
 
 <h3><u><strong><i>Solarmy Game</i></strong></u> &nbsp;(SOLANA)</h3>
 <hr />
@@ -60,6 +77,9 @@ The Solarmy is an interdimensional freedom fighting army of the future where all
   
 <h3><u><strong><i>Coinflip Game</i></strong></u> &nbsp;(SOLANA)</h3>
 <hr />
+
+
+
 
 <img align="right" height = "250px" src="https://user-images.githubusercontent.com/29230603/207527752-fb4e326a-1d7e-4ab6-bdc6-a30ad9d841d2.png" >
 
