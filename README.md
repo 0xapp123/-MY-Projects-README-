@@ -2,6 +2,25 @@
 
 You can find my past works here. Most of projects(repos) are in private status.
  
+<h3><u><strong><i>Jackpot Game</i></strong></u> &nbsp;(SOLANA)</h3>
+<hr />
+
+<img align="right" height = "250px" src="https://user-images.githubusercontent.com/29230603/234073744-baec2f16-7e2a-48dd-8874-4d4c62cddd88.png" >
+
+The Slowrug is a kind of Jackpot game which has initially 2 rooms (Tower, Graveyard).
+The players can enter in the game with their own bet amount and after the game finished, the winner can get the whole bet value from the platform.
+
+- Original Link: <a href="https://slowrug.io/" target="_blank">Slowrug</a>
+  - You can play game with SOL with this site
+  - You can win and get the whole bet amount
+
+
+- Github repo: 
+  - Solarmy Game FE: <a href="https://github.com/dev-tom-0108/Jackpot_Game_Frontend" target="_blank">FE code</a>
+  - Solarmy Game BE: <a href="https://github.com/dev-tom-0108/Jackpot_Game_Backend" target="_blank">BE code</a>
+  - Solarmy Game Program: <a href="https://github.com/dev-tom-0108/Jackpot_Game/tree/main/Jackpot_program" target="_blank">Program code</a>
+  
+- Social Link: <a href="https://twitter.com/Bet3NFT" target="_blank">Twitter Link</a> 
   
 <h3><u><strong><i>Solarmy Game</i></strong></u> &nbsp;(SOLANA)</h3>
 <hr />
