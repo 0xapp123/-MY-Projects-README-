@@ -14,14 +14,31 @@ The players can enter in the game with their own bet amount and after the game f
   - You can play game with SOL with this site
   - You can win and get the whole bet amount
 
-
 - Github repo: 
-  - Solarmy Game FE: <a href="https://github.com/dev-tom-0108/Jackpot_Game_Frontend" target="_blank">FE code</a>
-  - Solarmy Game BE: <a href="https://github.com/dev-tom-0108/Jackpot_Game_Backend" target="_blank">BE code</a>
-  - Solarmy Game Program: <a href="https://github.com/dev-tom-0108/Jackpot_Game/tree/main/Jackpot_program" target="_blank">Program code</a>
+  - Jackpot Game FE: <a href="https://github.com/dev-tom-0108/Jackpot_Game_Frontend" target="_blank">FE code</a>
+  - Jackpot Game BE: <a href="https://github.com/dev-tom-0108/Jackpot_Game_Backend" target="_blank">BE code</a>
+  - Jackpot Game Program: <a href="https://github.com/dev-tom-0108/Jackpot_Game/tree/main/Jackpot_program" target="_blank">Program code</a>
   
 - Social Link: <a href="https://twitter.com/Bet3NFT" target="_blank">Twitter Link</a> 
+
+<h3><u><strong><i>Yieldz-Defi</i></strong></u> &nbsp;(Core)</h3>
+<hr />
+
+<img align="right" height = "250px" src="https://user-images.githubusercontent.com/29230603/234078073-4c622db2-9c48-409c-8d69-31e86fa9971f.png" >
+
+Yieldz is the first multi Layered real-yield DeFi ecosystem. Our mission is to provide a sustainable system and bring stability and long-term solutions for Defi investors. YIELDZ is also a multifaceted Ecosystem, innovative Stablecoin, and Core Farm.
+
+- Original Link: <a href="https://yieldzprotocol.com/" target="_blank">Yieldz Protocol</a>
+  - You can Bond / Stake / Boost YZ by using this protocol
+  - You can get lots of Rewards as $SHDW and $CORE
+
+
+- Github repo: 
+  - Yieldz Protocol Smart Contract: <a href="https://github.com/dev-tom-0108/Double_yield_staking_solidity" target="_blank">Smart Contract code</a>
   
+- Social Link: <a href="https://twitter.com/Yieldzprotocol" target="_blank">The Yieldz-twitter</a>
+  
+
 <h3><u><strong><i>Solarmy Game</i></strong></u> &nbsp;(SOLANA)</h3>
 <hr />
 
