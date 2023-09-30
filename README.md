@@ -7,7 +7,7 @@ You can find my past works here. Most of projects(repos) are in private status.
 
 <img align="right" height = "250px" src="https://user-images.githubusercontent.com/29230603/234073744-baec2f16-7e2a-48dd-8874-4d4c62cddd88.png" >
 
-The Slowrug is a kind of Jackpot game which has initially 2 rooms (Tower, Graveyard).
+The Slowrug is a kind of Jackpot game which has initially 3 rooms (Tower, Graveyard, Infinite).
 The players can enter in the game with their own bet amount and after the game finished, the winner can get the whole bet value from the platform.
 
 - Original Link: <a href="https://slowrug.io/" target="_blank">Slowrug</a>
