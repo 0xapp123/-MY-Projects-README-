@@ -1,4 +1,4 @@
-# Blockchain Projects: (SOLANA / EVM / NEAR)
+# Blockchain Projects: (SOLANA / EVM / CARDANO / NEAR)
 
 You can find my past works here. Most of projects(repos) are in private status.
  
