@@ -40,6 +40,20 @@ Yieldz is the first multi Layered real-yield DeFi ecosystem. Our mission is to p
 
 
 
+<h3><u><strong><i>Cardano Solt Game</i></strong></u> &nbsp;(Cardano)</h3>
+<hr />
+
+This is web3 Play-To-Earn Game (slot) based on Cardano blockchain network.
+
+<img align="right" width="400px" src="https://github.com/dev-tom-0108/-MY-Projects-README-/assets/29230603/8ef19696-adbd-4a38-8442-cb5fec43dc45">
+Users can enjoy this game using various Cardano tokens like ADA cardano native token and other Cardano tokens.
+Greetings, space explorers of NEBULA! We're excited to announce that we've launched a brand new VIP area on the NEBULA site, designed exclusively for our dedicated members who are passionate about the wonders of the universe.
+
+Attended this project as a fullstack blockchain developer.
+- Live: <a href="https://www.spacerace.site">Spacerace</a>
+- Github repo: <a href="https://github.com/dev-tom-0108/SLOTs_BE_Cardano">Backend Code</a>
+
+
 
 <h3><u><strong><i>Degen Taxi</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
