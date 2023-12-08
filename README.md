@@ -1,8 +1,27 @@
 # Blockchain Projects: (SOLANA / EVM / CARDANO / NEAR)
 
 You can find my past works here. Most of projects(repos) are in private status.
+
+<h3><u><strong><i>Inkubate Marketplace</i></strong></u> &nbsp;(Ethereum)</h3>
+<hr />
+
+<img align="right" height = "250px" src="https://github.com/dev-tom-0108/-MY-Projects-README-/assets/29230603/2653726f-8b2f-4f61-93eb-39a5cdb52db8" >
+
+It is an NFT marketplace that forks from Opensea and operates on the Ethereum network.
+I have built the FE and BE sides on my side using Opensea smart contracts (Seaport).
+To be precise, I built BE on my side and worked with FE representatives to fully integrate this project.
+
+- Original Link: <a href="https://inkubate-marketplace-fe.vercel.app/" target="_blank">Inkubate Marketpalce</a>
+  - You can explore all NFTs are listed on this marketpalce
+  - You can get the stats of NFTs there
+  - You can mint your NFTs by using Launchpad
+
+
+- Github repo: 
+  - Inkubate Marketplace BE: <a href="https://github.com/dev-tom-0108/Marketplace_Backend" target="_blank">BE code</a>
  
-<h3><u><strong><i>Jackpot Game</i></strong></u> &nbsp;(SOLANA)</h3>
+ 
+<h3><u><strong><i>Jackpot Game</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
 <img align="right" height = "250px" src="https://user-images.githubusercontent.com/29230603/234073744-baec2f16-7e2a-48dd-8874-4d4c62cddd88.png" >
@@ -21,7 +40,7 @@ The players can enter in the game with their own bet amount and after the game f
   
 - Social Link: <a href="https://twitter.com/Bet3NFT" target="_blank">Twitter Link</a> 
 
-<h3><u><strong><i>Yieldz-Defi</i></strong></u> &nbsp;(Core)</h3>
+<h3><u><strong><i>Yieldz-Defi</i></strong></u> &nbsp;(CoreChain)</h3>
 <hr />
 
 <img align="right" height = "250px" src="https://user-images.githubusercontent.com/29230603/234078073-4c622db2-9c48-409c-8d69-31e86fa9971f.png" >
@@ -70,7 +89,7 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 
 
 
-<h3><u><strong><i>Solarmy Game</i></strong></u> &nbsp;(SOLANA)</h3>
+<h3><u><strong><i>Solarmy Game</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
 <img align="right" height = "250px" src="https://user-images.githubusercontent.com/29230603/207525801-dc957674-c432-4817-a30d-7476364ce0b4.png" >
@@ -89,7 +108,7 @@ The Solarmy is an interdimensional freedom fighting army of the future where all
   
 - Social Link: <a href="https://twitter.com/TheSolarmy" target="_blank">The Solarmy-twitter</a>
   
-<h3><u><strong><i>Coinflip Game</i></strong></u> &nbsp;(SOLANA)</h3>
+<h3><u><strong><i>Coinflip Game</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
 
@@ -154,7 +173,7 @@ We’ll also be hosting a charity auction with the winning artwork, allowing the
 
 - Github repo: <a href="https://github.com/dev-tom-0108/nuxt-fox-nft-marketplace" target="_blank">Fox Finance Marketplace</a>
 
-<h3><u><strong><i>Honey Finance</i></strong></u> &nbsp;(AVALANCHE/SOLANA)</h3>
+<h3><u><strong><i>Honey Finance</i></strong></u> &nbsp;(Avalanche/Solana)</h3>
 <hr />
 
 <img align="right" height = "150px" src="https://miro.medium.com/max/1000/1*6tTjzXX0Z2oDKoASI2KYTQ.png" >
