@@ -1,6 +1,19 @@
-# Blockchain Projects: (SOLANA / EVM / CARDANO / NEAR)
+# Blockchain Projects: (BITCOIN / SOLANA / EVM / CARDANO / NEAR)
 
 You can find my past works here. Most of projects(repos) are in private status.
+
+
+<h3><u><strong><i>BRC20 Airdrop</i></strong></u> &nbsp;(Bitcoin)</h3>
+<hr />
+
+This is a BRC20 token Airdrop project on Bitcoin network. Bitmap ordinal owners can airdrop BRC20 tokens to taproot address.
+<img align="right" height="200px" src="https://github.com/0xapp123/-MY-Projects-README-/assets/36965207/73b80e83-0e94-48a9-9294-7718f97ec1d9">
+
+BmpBrc is a BRC20 airdrop platform in Bitcoin Network. I get user's taproot address and check user is bitmap ordinal owner or not. Integrate Unisat, Leader, XVerse wallets in Frontend and used PSBT, bitcoinjs lib for deploy, mint and send BRC20 tokens to user's taproot address. Get familiar with Ordinal technology(like utxo, psbt, inscribe), I can make the Bitcoin Defi project use Orinal or BRC20 tokens.
+- Live: <a href="https://bmpbrc.com/">BMP BRC20</a>
+- Github repos: 
+  - backend repo: <a href="https://github.com/0xapp123/BRC20-withdraw-BE">BRC20-Backend</a>
+  - frontend repo: <a href="https://github.com/0xapp123/BRC20-Withdraw-Unisat">BRC20-Frontend</a>
 
 <h3><u><strong><i>Inkubate Marketplace</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
