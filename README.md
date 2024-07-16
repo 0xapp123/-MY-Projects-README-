@@ -1,6 +1,19 @@
 # Blockchain Projects: (BITCOIN / SOLANA / EVM / CARDANO / NEAR)
 
-You can find my past works here. Most of projects(repos) are in private status.
+You can find my past works here. Some of projects(repos) are in private status.
+
+<h3><u><strong><i>Pump.fun - Ape.lol</i></strong></u> &nbsp;(Solana/Ethereum)</h3>
+<hr />
+
+<img align="right" height="200px" src="https://github.com/user-attachments/assets/cc0d399e-026c-4647-a16d-235c8acc81e6">
+This is pump.fun project on Solana/Ethereum network. Launch a coin that is instantly tradable without having to seed liquidity. </br>
+Built frontend/backend for spl token create, market create.</br>
+Built smart contract for bonding curve, make pool on raydium.
+
+- Live_1: <a href="https://app.ape.lol/">Pump Fun</a>
+- Live_2: <a href="https://fairlaunch.kommunitas.net/">Boilerplate Pump Fun</a>
+- Github repos: 
+  - Smart Contract repo: <a href="https://github.com/0xapp123/Pump.fun-Smart-Contract">Pump.fun-Smart Contract</a>
 
 
 <h3><u><strong><i>BRC20 Airdrop</i></strong></u> &nbsp;(Bitcoin)</h3>
