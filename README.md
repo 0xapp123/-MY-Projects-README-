@@ -10,9 +10,9 @@ This is pump.fun project on Solana/Ethereum network. Launch a coin that is insta
 </br>
 * Built Boilerplate for all other forking project</br>
 * Built frontend/backend for spl token create, market create.</br>
-* Built smart contract for bonding curve, make pool on raydium.
-
+* Built smart contract for bonding curve, make pool on raydium.</br>
 </br>
+
 - Live_1: <a href="https://app.ape.lol/">Pump Fun</a>
 - Live_2: <a href="https://fairlaunch.kommunitas.net/">Boilerplate Pump Fun</a>
 - Github repos: 
