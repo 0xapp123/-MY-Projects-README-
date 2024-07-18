@@ -7,8 +7,10 @@ You can find my past works here. Some of projects(repos) are in private status.
 
 <img align="right" height="200px" src="https://github.com/user-attachments/assets/cc0d399e-026c-4647-a16d-235c8acc81e6">
 This is pump.fun project on Solana/Ethereum network. Launch a coin that is instantly tradable without having to seed liquidity. </br>
-Built frontend/backend for spl token create, market create.</br>
-Built smart contract for bonding curve, make pool on raydium.
+</br>
+* Built Boilerplate for all other forking project</br>
+* Built frontend/backend for spl token create, market create.</br>
+* Built smart contract for bonding curve, make pool on raydium.
 
 - Live_1: <a href="https://app.ape.lol/">Pump Fun</a>
 - Live_2: <a href="https://fairlaunch.kommunitas.net/">Boilerplate Pump Fun</a>
