@@ -49,7 +49,7 @@ BmpBrc is a BRC20 airdrop platform in Bitcoin Network. I get user's taproot addr
 <h3><u><strong><i>Wheel Game</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" height = "250px" src="https://github.com/0xapp123/-MY-Projects-README-/assets/36965207/6abd89f3-b5c2-4816-861d-971a088d3fd5" >
+<img align="right" height = "250px" src="https://github.com/user-attachments/assets/8b8b05bd-0061-461d-8361-31c3a5d5e238" >
 
 This is the wheel game by using $TOKE tokens on Solana. The spin result will be randomized fairly - Lost, 1.2X, 1.5X, 2X, Jackpot. Users can get reward as $TOKE tokens.
 
