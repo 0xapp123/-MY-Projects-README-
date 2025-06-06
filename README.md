@@ -2,6 +2,20 @@
 
 You can find my past works here. Some of projects(repos) are in private status.
 
+<h3><u><strong><i>Pump.fun - Kommunitas Net</i></strong></u> &nbsp;(Solana/Ethereum)</h3>
+<hr />
+
+<img align="right" height="200px" src="https://github.com/user-attachments/assets/cc0d399e-026c-4647-a16d-235c8acc81e6">
+This is pump.fun project on Solana/Ethereum network. Launch a coin that is instantly tradable without having to seed liquidity. </br>
+</br>
+* Built frontend/backend for spl token create, market create.</br>
+* Built smart contract for bonding curve, make pool on raydium.</br>
+</br>
+
+- Live: <a href="https://fairlaunch.kommunitas.net/">Boilerplate Pump Fun</a>
+- Github repos: 
+  - Smart Contract repo: <a href="https://github.com/Kommunitas-net/fair-launch">Fairlaunch - Smart Contract, Frontend, Backend</a>
+
 <h3><u><strong><i>Pump.fun - Ape.lol</i></strong></u> &nbsp;(Solana/Ethereum)</h3>
 <hr />
 
