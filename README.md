@@ -78,7 +78,7 @@ To be precise, I built BE on my side and worked with FE representatives to fully
 
 
 - Github repo: 
-  - Inkubate Marketplace BE: <a href="https://github.com/dev-tom-0108/Marketplace_Backend" target="_blank">BE code</a>
+  - Inkubate Marketplace BE: <a href="https://github.com/0xapp123/Marketplace_Backend" target="_blank">BE code</a>
  
  
 <h3><u><strong><i>Jackpot Game</i></strong></u> &nbsp;(Solana)</h3>
@@ -94,9 +94,9 @@ The players can enter in the game with their own bet amount and after the game f
   - You can win and get the whole bet amount
 
 - Github repo: 
-  - Jackpot Game FE: <a href="https://github.com/dev-tom-0108/Jackpot_Game_Frontend" target="_blank">FE code</a>
-  - Jackpot Game BE: <a href="https://github.com/dev-tom-0108/Jackpot_Game_Backend" target="_blank">BE code</a>
-  - Jackpot Game Program: <a href="https://github.com/dev-tom-0108/Jackpot_Game/tree/main/Jackpot_program" target="_blank">Program code</a>
+  - Jackpot Game FE: <a href="https://github.com/0xapp123/Jackpot_Game_Frontend" target="_blank">FE code</a>
+  - Jackpot Game BE: <a href="https://github.com/0xapp123/Jackpot_Game_Backend" target="_blank">BE code</a>
+  - Jackpot Game Program: <a href="https://github.com/0xapp123/Jackpot_Game/tree/main/Jackpot_program" target="_blank">Program code</a>
   
 - Social Link: <a href="https://twitter.com/Bet3NFT" target="_blank">Twitter Link</a> 
 
@@ -113,7 +113,7 @@ Yieldz is the first multi Layered real-yield DeFi ecosystem. Our mission is to p
 
 
 - Github repo: 
-  - Yieldz Protocol Smart Contract: <a href="https://github.com/dev-tom-0108/Double_yield_staking_solidity" target="_blank">Smart Contract code</a>
+  - Yieldz Protocol Smart Contract: <a href="https://github.com/0xapp123/Double_yield_staking_solidity" target="_blank">Smart Contract code</a>
   
 - Social Link: <a href="https://twitter.com/Yieldzprotocol" target="_blank">The Yieldz-twitter</a>
 
@@ -130,7 +130,7 @@ Greetings, space explorers of NEBULA! We're excited to announce that we've launc
 
 Attended this project as a fullstack blockchain developer.
 - Live: <a href="https://www.spacerace.site">Spacerace</a>
-- Github repo: <a href="https://github.com/dev-tom-0108/SLOTs_BE_Cardano">Backend Code</a>
+- Github repo: <a href="https://github.com/0xapp123/SLOTs_BE_Cardano">Backend Code</a>
 
 
 
@@ -145,7 +145,7 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 
 - Live: <a href="https://degentaxi.io">Degen Taxi</a>
 - Github repos: 
-  - smart contract repo: <a href="https://github.com/dev-tom-0108/Taxi_Game_Program">taxi-crash-solana-contract</a>
+  - smart contract repo: <a href="https://github.com/0xapp123/degenTaxi-Program">taxi-crash-solana-contract</a>
 
 
 
@@ -162,9 +162,9 @@ The Solarmy is an interdimensional freedom fighting army of the future where all
 
 
 - Github repo: 
-  - Solarmy Game FE: <a href="https://github.com/dev-tom-0108/Solarmy-FE" target="_blank">FE code</a>
-  - Solarmy Game BE: <a href="https://github.com/dev-tom-0108/Solarmy-Backend-Api" target="_blank">BE code</a>
-  - Solarmy Game Program: <a href="https://github.com/dev-tom-0108/Solarmy-Staking-Program" target="_blank">Program code</a>
+  - Solarmy Game FE: <a href="https://github.com/0xapp123/Solarmy-FE" target="_blank">FE code</a>
+  - Solarmy Game BE: <a href="https://github.com/0xapp123/Solarmy-Backend-Api" target="_blank">BE code</a>
+  - Solarmy Game Program: <a href="https://github.com/0xapp123/Solarmy-Staking-Program" target="_blank">Program code</a>
   
 - Social Link: <a href="https://twitter.com/TheSolarmy" target="_blank">The Solarmy-twitter</a>
   
@@ -181,9 +181,9 @@ This is the Coinflip game for Solana network
 - Original Link: <a href="https://coinflip.deezkits.com/" target="_blank">Coinflip Game</a>
 
 - Github repo: 
-  - Coinflip Game FE: <a href="https://github.com/dev-tom-0108/Coinflip-Game/tree/main/coinflip-frontend" target="_blank">FE code</a>
-  - Coinflip Game BE: <a href="https://github.com/dev-tom-0108/Coinflip-Game/tree/main/backend" target="_blank">BE code</a>
-  - Coinflip Game Program: <a href="https://github.com/dev-tom-0108/Coinflip-Game/tree/main/coinflip-smart-contract" target="_blank">Program code</a>
+  - Coinflip Game FE: <a href="https://github.com/0xapp123/Coinflip-Game/tree/main/coinflip-frontend" target="_blank">FE code</a>
+  - Coinflip Game BE: <a href="https://github.com/0xapp123/Coinflip-Game/tree/main/backend" target="_blank">BE code</a>
+  - Coinflip Game Program: <a href="https://github.com/0xapp123/Coinflip-Game/tree/main/coinflip-smart-contract" target="_blank">Program code</a>
   
 - Social Link: <a href="https://mobile.twitter.com/deezkits" target="_blank">Deezkits-twitter</a>
 
@@ -198,7 +198,7 @@ We are a safe, boring NFT vault. That is very $Dusty. You can pay us to store yo
 - Original Link: <a href="https://dustyvaults.net/" target="_blank">Dusty Vaults</a>
 
 
-- Github repo: <a href="https://github.com/dev-tom-0108/dusty-valuts-v2" target="_blank">Dusty-Vaults_Staking</a>
+- Github repo: <a href="https://github.com/0xapp123/dusty-valuts-v2" target="_blank">Dusty-Vaults_Staking</a>
 - Social Link: <a href="https://twitter.com/DustyVaultsNFT" target="_blank">Dusty Vaults-twitter</a>
 
 <h3><u><strong><i>Seattle-SuperKongs-Staking</i></strong></u> &nbsp;(Ethereum)</h3>
@@ -231,7 +231,7 @@ We’ll also be hosting a charity auction with the winning artwork, allowing the
 
 - Original Link: <a href="https://foxfinance.io/Marketplace" target="_blank">Fox Finance</a>
 
-- Github repo: <a href="https://github.com/dev-tom-0108/nuxt-fox-nft-marketplace" target="_blank">Fox Finance Marketplace</a>
+- Github repo: <a href="https://github.com/0xapp123/nuxt-fox-nft-marketplace" target="_blank">Fox Finance Marketplace</a>
 
 <h3><u><strong><i>Honey Finance</i></strong></u> &nbsp;(Avalanche/Solana)</h3>
 <hr />
@@ -260,7 +260,7 @@ This is the traditional NFT staking project. Users stake their TAC NFTs and rece
   - You can stake your TAC NFT.
   - You will receive reward as 🍌$BGA calculated by 25 days.
 - Original Link: <a href="https://www.theapedao.finance/" target="_blank">Buy $BGA|APe DAO</a>
-- Github repo : <a href="https://github.com/dev-tom-0108/NFT-staking-aurora" target="_blank">TAC-NFT-Staking</a>  
+- Github repo : <a href="https://github.com/0xapp123/NFT-staking-aurora" target="_blank">TAC-NFT-Staking</a>  
 
 <h3><u><strong><i>LaidBackLlamas</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
@@ -288,7 +288,7 @@ Multiple Factor Rewards Staking program for 👩🏿‍🚀Astronaut👨🏿‍�
 - Official Links:
   - Website: <a href="https://www.cosmicastronauts.com">Cosmic Astronaut</a>
   - Dashboard: <a href="https://minxlabs.io">Minx Labs Dashboard</a>
-- Github repo: <a href="https://github.com/dev-tom-0108/Astronaut-NFT-Staking">Astronaut-NFT-Staking-death</a>
+- Github repo: <a href="https://github.com/0xapp123/Astronaut-NFT-Staking">Astronaut-NFT-Staking-death</a>
 
 <h3><u><strong><i>Burning Masked Ape Dao</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -306,7 +306,7 @@ This is burning mechanism to burn NFTs have no metadata in Masked Ape collection
 - $MAD tokens contract: <a href="https://solscan.io/token/GkXn6PUbcvpwAzVCgJFychVhAhjwZRMJWmtqzar3SnqG">$MAD token</a>    
 - Magic Eden: <a href="https://magiceden.io/marketplace/maskedapedao">maskedapedao</a>
 - Offical Links: <a href="https://maskedapedao.xyz">Anonymous Masked Ape DAO</a>
-- Github repo: <a href="https://github.com/dev-tom-0108/Burning_Masked_Ape">Burning_Masked_Ape</a>
+- Github repo: <a href="https://github.com/0xapp123/Burning_Masked_Ape">Burning_Masked_Ape</a>
 
 
 <h3><u><strong><i>Wild West Verse</i></strong></u> &nbsp;(Solana)</h3>
@@ -321,7 +321,7 @@ You can participate to the WWV Lottery and the WWV Auction, stake your $WWV Toke
   - If your NFT is rarer you will get more staking reward.
   - Whenever you want. But keep in mind that you won't be able to get any more staking income.
 - Original Link: <a href="https://www.wildwestverse.com" target="_blank">Wild West Verse</a>
-- Github repo: <a href="https://github.com/dev-tom-0108/WorldWiseVerse-Staking" target="_blank">WWV-NFT-Staking</a>
+- Github repo: <a href="https://github.com/0xapp123/WorldWiseVerse-Staking" target="_blank">WWV-NFT-Staking</a>
 
 <h3><u><strong><i>Kingdom of Dwarves</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -335,7 +335,7 @@ Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
   - users can reward according to their NFT rare
   - Whenever you want. But keep in mind that you won't be able to get any more staking income.
 - Original Link: <a href="https://www.kingdomofdwarves.io" target="_blank">Kingdom of Dwarves</a>
-- Github repo: <a href="https://github.com/dev-tom-0108/KoD-NFT-Staking" target="_blank">Dwarves-staking</a>
+- Github repo: <a href="https://github.com/0xapp123/KoD-NFT-Staking" target="_blank">Dwarves-staking</a>
 - Kod Story: <a href="https://kod-app.netlify.app/" target="_blank">KoD-Story</a>
  
 <!-- <h3><u><strong><i>FLWR Staking</i></strong></u> &nbsp;(Solana)</h3>
@@ -353,7 +353,7 @@ Staking an SPL token "FLWR"
   - penalties for early withdrawl - 6/12/24%
   - transaction fee < .1 sol
 - Original Link: <a href="https://dex.solflowers.io" target="_blank">FLOWERS Solana Marketplace</a>
-- Github repo : <a href="https://github.com/dev-tom-0108/FLOWER-spl-staking" target="_blank">FLWR-staking</a>
+- Github repo : <a href="https://github.com/0xapp123/FLOWER-spl-staking" target="_blank">FLWR-staking</a>
      -->
 
 <h3><u><strong><i>Luvami Gambling</i></strong></u> &nbsp;(Solana)</h3>
@@ -367,7 +367,7 @@ This is the Dice game. The random number will be created in blockchain and compa
   - You can deposit 0.05, 0.1, 0.25, 0.5, 0.75, 1, 2.5 SOL
   - If you win, you receive the 2 times, you earn
   - If you lost, you can't receive at all.
-- Github repo : <a href="https://github.com/dev-tom-0108/Dice-Rust" target="_blank">DICE</a>  
+- Github repo : <a href="https://github.com/0xapp123/Dice-Rust" target="_blank">DICE</a>  
 
 <h3><u><strong><i>Apex Raffle House</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -386,7 +386,7 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
   - Linktree: <a href="https://linktr.ee/ApexPredatorsSOL">Apex Predator | Linktree</a>
   - Website: <a href="https://home.apexpredator.army">Apex Predator</a>
   - Staking: <a href="https://apex-staking.vercel.app">Apex Predator | Staking</a>
-- Github repo: <a href="https://github.com/dev-tom-0108/ApeX-Raffle-program">Apex-Raffle</a>
+- Github repo: <a href="https://github.com/0xapp123/ApeX-Raffle-program">Apex-Raffle</a>
 
 <h3><u><strong><i>EU(Eternal Underworld) Raffle</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -407,7 +407,7 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
   - Website: <a href="https://www.daku-reapers.com" target="_blank">Daku-Reapers Ressurection</a>
   - Auction: <a href="https://daku-reapers.auction" target="_blank">Daku-Reapers Auction</a>
   - Staking: <a href="https://daku-reaper-staking.vercel.app" target="_blank">Daku-Reapers Staking</a>
-- Github repo: <a href="https://github.com/dev-tom-0108/raffle-frank-rust" target="_blank">EU-raffle</a>
+- Github repo: <a href="https://github.com/0xapp123/raffle-frank-rust" target="_blank">EU-raffle</a>
 
 
 <h3><u><strong>MetaKongz Raffle</strong></u> &nbsp;(Solana)</h3>
@@ -426,7 +426,7 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
 - Original Links:
   - Website: <a href="https://www.metakongz.art" target="_blank">MetaKongz</a>
   - Staking: <a href="https://metakongz-staking.vercel.app" target="_blank">MetaKongz Staking</a>
-- Github repo: <a href="https://github.com/dev-tom-0108/raffle-pro-contract" target="_blank">raffle-auction-prospect3</a>
+- Github repo: <a href="https://github.com/0xapp123/raffle-pro-contract" target="_blank">raffle-auction-prospect3</a>
 
 
 <h3><u><strong><i>Auction House</i></strong></u> &nbsp;(Solana)</h3>
@@ -448,7 +448,7 @@ This is the auction platform that users can bid with several 💵spl-tokens and 
   - Staking: <a href="https://staking.thedogecapital.com">Doge Capital NFT Staking:</a>
   - CoinFlip: <a href="https://degencoinflip.com/dogecapital">Degen Coin Flip:</a>
   - Twitter: <a href="https://twitter.com/thedogecapital">Doge Capital:</a>
-- Github repo: <a href="https://github.com/dev-tom-0108/auction-doge-rust">auction-doge</a>
+- Github repo: <a href="https://github.com/0xapp123/auction-doge-rust">auction-doge</a>
   - Project Structure:
     - Auction contract
     - Auction api
