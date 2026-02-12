@@ -2,6 +2,22 @@
 
 You can find my past works here. Some of projects(repos) are in private status.
 
+<h3><u><strong><i>VALA - SocialFi</i></strong></u> &nbsp;(Solana/Mobile)</h3>
+<hr />
+
+<img align="right" height="200px" src="https://github.com/user-attachments/assets/2be928bd-431b-4036-9426-ab919a97cf60">
+VALA is a short-form video app powered by VISION, our multimodal recommendation engine. It lets people discover content by mood, energy, and aesthetic instead of just views and keywords. </br>
+</br>
+* Built Playerpool System like Tiktok</br>
+* Built trading workflow using Titan Exchange.</br>
+</br>
+
+- Live: <a href="https://vala.social/">VALA</a>
+  - <a href="https://apps.apple.com/us/app/vala/id6630372839">App Store</a>
+  - <a href="https://play.google.com/store/apps/details?id=com.valalabsltd.vala">Google Play</a>
+- Github repos: 
+  - Mobile repo: <a href="https://github.com/tradeVALA/VALA/">VALA Mobile - React Native</a>
+
 <h3><u><strong><i>Pump.fun - Kommunitas Net</i></strong></u> &nbsp;(Solana/Ethereum)</h3>
 <hr />
 
