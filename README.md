@@ -5,7 +5,7 @@ You can find my past works here. Some of projects(repos) are in private status.
 <h3><u><strong><i>VALA - SocialFi</i></strong></u> &nbsp;(Solana/Mobile)</h3>
 <hr />
 
-<img align="right" height="250px" src="https://github.com/user-attachments/assets/2be928bd-431b-4036-9426-ab919a97cf60">
+<img align="right" height="300px" src="https://github.com/user-attachments/assets/2be928bd-431b-4036-9426-ab919a97cf60">
 VALA is a short-form video app powered by VISION, our multimodal recommendation engine. It lets people discover content by mood, energy, and aesthetic instead of just views and keywords. </br>
 </br>
 * Built Playerpool System like Tiktok</br>
